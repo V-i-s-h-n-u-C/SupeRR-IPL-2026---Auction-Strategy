@@ -75,7 +75,7 @@ To design a **data-driven auction strategy for Rajasthan Royals (IPL 2026)** by:
 ## 🖼️ Dashboard Preview  
 
 ### 🎯 Bowling Dashboard  
-![Bowling Dashboard](images/bowling_dashboard.png)
+![Bowling Dashboard](https://github.com/V-i-s-h-n-u-C/SupeRR-IPL-2026---Auction-Strategy/blob/main/Bowling%20Dashboard.png)
 
 ### 🎯 Batting Dashboard  
 ![Batting Dashboard](https://github.com/V-i-s-h-n-u-C/SupeRR-IPL-2026---Auction-Strategy/blob/main/Batting%20Dashboard.png)
